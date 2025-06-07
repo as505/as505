@@ -13,7 +13,10 @@
 
 
 <h2> Projects </h2>
-
+<p>
+[Pan and zoom](https://pan-and-zoom-canvas.vercel.app/)
+A small webapp to pan and zoom on an image, build in react/vite and deployed with vercel
+</p>
 
 <h3> Helldivers TTRPG </h3>
 <p>
