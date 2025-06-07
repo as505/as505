@@ -13,8 +13,8 @@
 
 
 <h2> Projects </h2>
+<a href="https://pan-and-zoom-canvas.vercel.app/" title="Pan and zoom">Pan and zoom</a>
 <p>
-[Pan and zoom](https://pan-and-zoom-canvas.vercel.app/)
 A small webapp to pan and zoom on an image, build in react/vite and deployed with vercel
 </p>
 
