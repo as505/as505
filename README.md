@@ -13,6 +13,11 @@
 
 
 <h2> Projects </h2>
+<a href="https://webdrilling.pages.dev/" title="Webdrilling">Webdrilling</a>
+<p>
+Very early game prototype. An idle webgame about drilling into the core of the earth, incrementally bying upgrades to proccess and sell dug up landmass to buy more upgrades to proccess and sell more landmass
+</p>
+
 <a href="https://pan-and-zoom-canvas.vercel.app/" title="Pan and zoom">Pan and zoom</a>
 <p>
 A small webapp to pan and zoom on an image, build in react/vite and deployed with vercel
