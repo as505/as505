@@ -13,7 +13,7 @@
 
 
 <h2> Projects </h2>
-<a href="github.com/as505/.NetLZW" title=".NetLZW">.NetLZW</a>
+<a href="https://github.com/as505/.NetLZW/" title=".NetLZW">.NetLZW</a>
 <p>
 An implementation of the LZW compression algorithm in C#, with unittesting and CI/CD
 </p>
