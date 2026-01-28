@@ -13,6 +13,11 @@
 
 
 <h2> Projects </h2>
+<a href="github.com/as505/.NetLZW" title=".NetLZW">.NetLZW</a>
+<p>
+An implementation of the LZW compression algorithm in C#, with unittesting and CI/CD
+</p>
+
 <a href="https://webdrilling.pages.dev/" title="Webdrilling">Webdrilling</a>
 <p>
 Very early game prototype. An idle webgame about drilling into the core of the earth, incrementally bying upgrades to proccess and sell dug up landmass to buy more upgrades to proccess and sell more landmass
