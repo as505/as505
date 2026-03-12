@@ -13,9 +13,20 @@
 
 
 <h2> Projects </h2>
+
+<a href="https://github.com/as505/Finanstilsynet_Short_Register_Dashboard" title="Finanstilsynet Short Sale Register Dashboard">
+<p>
+WIP Dashboard to display short sale register data and statistics from Finanstilsynets public API
+</p>
+
 <a href="https://github.com/as505/.NetLZW/" title=".NetLZW">.NetLZW</a>
 <p>
 An implementation of the LZW compression algorithm in C#, with unittesting and CI/CD
+</p>
+
+<a href="https://github.com/as505/C-animated-gif" title="C gif encoder">
+<p>
+An encoder for generating GIF images from C code, still needs an implementation of GIF-LZW similar to the one implemented in C# but with variable length codes
 </p>
 
 <a href="https://webdrilling.pages.dev/" title="Webdrilling">Webdrilling</a>
@@ -27,20 +38,6 @@ Very early game prototype. An idle webgame about drilling into the core of the e
 <p>
 A small webapp to pan and zoom on an image, build in react/vite and deployed with vercel
 </p>
-
-<h3> Helldivers TTRPG </h3>
-<p>
-Helldivers TTRPG was created to experiment with Typst templates, 
-using Typst to create a tabletop RPG based on the Helldivers 2 video game by Arrowhead Studio
-</p>
-
-
-<h3> Factory Game </h3>
-<p>
-The main goal with factory game was to learn how the godot game engine works, and to create a small game-like app that where buildings could be placed on a tilegrid.
-It currently features two buildings that can be placed and removed from the map, and syncronized animated sprites.
-</p>
-
 
 <h3> QR code generator </h3>
 <p>
