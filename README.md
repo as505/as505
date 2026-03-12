@@ -14,7 +14,7 @@
 
 <h2> Projects </h2>
 
-<a href="https://github.com/as505/Finanstilsynet_Short_Register_Dashboard" title="Finanstilsynet Short Sale Register Dashboard">
+<a href="https://github.com/as505/Finanstilsynet_Short_Register_Dashboard" title="Finanstilsynet Short Sale Register Dashboard">Finanstilsynet Short Sale Register Dashboard</a>
 <p>
 WIP Dashboard to display short sale register data and statistics from Finanstilsynets public API
 </p>
@@ -24,7 +24,7 @@ WIP Dashboard to display short sale register data and statistics from Finanstils
 An implementation of the LZW compression algorithm in C#, with unittesting and CI/CD
 </p>
 
-<a href="https://github.com/as505/C-animated-gif" title="C gif encoder">
+<a href="https://github.com/as505/C-animated-gif" title="C gif encoder">C gif encoder</a>
 <p>
 An encoder for generating GIF images from C code, still needs an implementation of GIF-LZW similar to the one implemented in C# but with variable length codes
 </p>
