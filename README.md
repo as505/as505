@@ -14,6 +14,7 @@
 
 <h2> Projects </h2>
 
+
 <a href="https://github.com/as505/Finanstilsynet_Short_Register_Dashboard" title="Finanstilsynet Short Sale Register Dashboard">Finanstilsynet Short Sale Register Dashboard</a>
 <p>
 WIP Dashboard to display short sale register data and statistics from Finanstilsynets public API
@@ -39,7 +40,7 @@ Very early game prototype. An idle webgame about drilling into the core of the e
 A small webapp to pan and zoom on an image, build in react/vite and deployed with vercel
 </p>
 
-<h3> QR code generator </h3>
+<a href="https://github.com/as505/QR-code-generator" title="QR code generator">QR code generator</a>
 <p>
 The QR code generator is developed as a learning project to learn about the way data is stored in QR codes, how to convert data into a QR code, and how QR codes of varying sized are created.
 </p>
